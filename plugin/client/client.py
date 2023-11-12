@@ -1,7 +1,7 @@
 from dataclasses import dataclass, field
 from cloudquery.sdk.scheduler import Client as ClientABC
 
-from plugin.example.client import ExampleClient
+from plugin.counts.client import CountsClient
 
 DEFAULT_CONCURRENCY = 100
 DEFAULT_QUEUE_SIZE = 10000

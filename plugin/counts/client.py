@@ -8,7 +8,7 @@ class CountsClient:
         self._github_owner_id = github_owner_id
 
     def counts_iterator(self, page: int = 1) -> Generator[Dict[str, Any], None, None]:
-        console.log("Debug: Calling API)
+        console.log("Debug: Calling API")
         console.log(f"Debug: URL: {urljoin(self._base_url, '/sca/counts/severity/latest')}")
         console.log(f"Debug: Params: {{'githubOwnerId': self._github_owner_id}}")
 
