@@ -9,8 +9,9 @@ DEFAULT_QUEUE_SIZE = 10000
 
 @dataclass
 class Spec:
-    access_token: str
-    base_url: str = field(default="https://api.example.com")
+    access_token: str = field(default="")
+    base_url: str = field(default="")
+    github_owner_id: str = field(default="")
     concurrency: int = field(default=DEFAULT_CONCURRENCY)
     queue_size: int = field(default=DEFAULT_QUEUE_SIZE)
 
@@ -23,11 +24,11 @@ class Spec:
 class Client(ClientABC):
     def __init__(self, spec: Spec) -> None:
         self._spec = spec
-        self._client = ExampleClient(spec.access_token, spec.base_url)
+        self._client = CountsClient(spec.access_token, spec.github_owner_id, spec.base_url)
 
     def id(self):
-        return "example"
+        return "counts"
 
     @property
-    def client(self) -> ExampleClient:
+    def client(self) -> CountsClient:
         return self._client

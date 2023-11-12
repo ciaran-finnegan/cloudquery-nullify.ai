@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "example"
+name = "nullify"
 version = "0.1.0"
 description = ""
-authors = ["Plaintextnerds <tim@plaintextnerds.com>"]
+authors = ["Ciaran <ciaran.finnegan@gmail.com>"]
 readme = "README.md"
 packages = [{include = "plugin"}]
 
