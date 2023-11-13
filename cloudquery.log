@@ -1,0 +1,561 @@
+2023-11-12T12:44:05Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T12:44:31Z ERR exiting with error error="All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-12T12:50:40Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T12:51:06Z ERR exiting with error error="All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-12T12:55:44Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T12:56:11Z ERR exiting with error error="All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-12T12:56:48Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T12:57:15Z ERR exiting with error error="All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-12T12:58:37Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T12:58:37Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-12T12:59:04Z ERR exiting with error error="All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-12T13:01:17Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T13:01:17Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-12T13:01:44Z ERR exiting with error error="All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-12T13:10:24Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T13:10:24Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-12T13:10:50Z ERR exiting with error error="All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-12T13:13:33Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T13:13:33Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-12T13:14:00Z ERR exiting with error error="All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-12T14:14:16Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T14:14:16Z ERR exiting with error error="failed to load spec(s) from TestConfig.yaml. Error: failed to expand environment variable in file TestConfig.yaml (section 1): env variable NULLIFY_API_BEARER_TOKEN not found" module=cli
+2023-11-12T14:15:55Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T14:16:30Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-fNipsQwKnnYyxoeA.sock module=cli
+2023-11-12T14:16:30Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-12T22:16:30+08:00 grpc.time_ms=0.356 module=cli peer.address= protocol=grpc
+2023-11-12T14:16:30Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-12T22:16:30+08:00 grpc.time_ms=0.392 module=cli peer.address= protocol=grpc
+2023-11-12T14:16:30Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-12T14:16:30Z
+2023-11-12T14:16:30Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-12T22:16:30+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-12T14:16:30Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-12T22:16:30+08:00 grpc.time_ms=0.22 module=cli peer.address= protocol=grpc
+2023-11-12T14:16:31Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-12T14:16:30Z
+2023-11-12T14:16:31Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-12T14:16:31Z INF waiting for source plugin to terminate module=cli
+2023-11-12T14:16:31Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-fNipsQwKnnYyxoeA.sock module=cli signal=interrupt
+2023-11-12T14:16:31Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: name 'github_owner_id' is not defined" module=cli
+2023-11-12T14:19:02Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T14:19:03Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-XRcsoZWMSmOrRTtF.sock module=cli
+2023-11-12T14:19:03Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-12T22:19:03+08:00 grpc.time_ms=0.402 module=cli peer.address= protocol=grpc
+2023-11-12T14:19:03Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-12T22:19:03+08:00 grpc.time_ms=0.46 module=cli peer.address= protocol=grpc
+2023-11-12T14:19:03Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-12T14:19:03Z
+2023-11-12T14:19:03Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-12T22:19:03+08:00 grpc.time_ms=0.004 module=cli peer.address= protocol=grpc
+2023-11-12T14:19:03Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-12T22:19:03+08:00 grpc.time_ms=0.259 module=cli peer.address= protocol=grpc
+2023-11-12T14:19:03Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-12T14:19:03Z
+2023-11-12T14:19:03Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-12T14:19:04Z INF waiting for source plugin to terminate module=cli
+2023-11-12T14:19:04Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-XRcsoZWMSmOrRTtF.sock module=cli signal=interrupt
+2023-11-12T14:19:04Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: name 'github_owner_id' is not defined" module=cli
+2023-11-12T14:20:06Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T14:20:06Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-gvYaleMwNiXiGnhQ.sock module=cli
+2023-11-12T14:20:07Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-12T22:20:07+08:00 grpc.time_ms=0.234 module=cli peer.address= protocol=grpc
+2023-11-12T14:20:07Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-12T22:20:07+08:00 grpc.time_ms=0.258 module=cli peer.address= protocol=grpc
+2023-11-12T14:20:07Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-12T14:20:07Z
+2023-11-12T14:20:07Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-12T22:20:07+08:00 grpc.time_ms=0.008 module=cli peer.address= protocol=grpc
+2023-11-12T14:20:07Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-12T22:20:07+08:00 grpc.time_ms=0.077 module=cli peer.address= protocol=grpc
+2023-11-12T14:20:07Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-12T14:20:07Z
+2023-11-12T14:20:07Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-12T14:20:08Z INF waiting for source plugin to terminate module=cli
+2023-11-12T14:20:08Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-gvYaleMwNiXiGnhQ.sock module=cli signal=interrupt
+2023-11-12T14:20:08Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: name 'github_owner_id' is not defined" module=cli
+2023-11-12T14:22:53Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-12T14:22:53Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-ozDxWLWrWnhpbLBb.sock module=cli
+2023-11-12T14:22:54Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-12T22:22:54+08:00 grpc.time_ms=0.252 module=cli peer.address= protocol=grpc
+2023-11-12T14:22:54Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-12T22:22:54+08:00 grpc.time_ms=0.271 module=cli peer.address= protocol=grpc
+2023-11-12T14:22:54Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-12T14:22:54Z
+2023-11-12T14:22:54Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-12T22:22:54+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-12T14:22:54Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-12T22:22:54+08:00 grpc.time_ms=0.059 module=cli peer.address= protocol=grpc
+2023-11-12T14:22:54Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-12T14:22:54Z
+2023-11-12T14:22:54Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-12T14:22:55Z INF waiting for source plugin to terminate module=cli
+2023-11-12T14:22:55Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-ozDxWLWrWnhpbLBb.sock module=cli signal=interrupt
+2023-11-12T14:22:55Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: name 'github_owner_id' is not defined" module=cli
+2023-11-13T01:20:33Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:20:33Z ERR exiting with error error="failed to load spec(s) from TestConfig.yaml. Error: failed to expand environment variable in file TestConfig.yaml (section 1): env variable NULLIFY_API_BEARER_TOKEN not found" module=cli
+2023-11-13T01:21:56Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:21:56Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:21:57Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-afkZNbbsDfRHZrgV.sock module=cli
+2023-11-13T01:21:57Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:21:57+08:00 grpc.time_ms=0.854 module=cli peer.address= protocol=grpc
+2023-11-13T01:21:57Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:21:57+08:00 grpc.time_ms=1.069 module=cli peer.address= protocol=grpc
+2023-11-13T01:21:57Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:21:57Z
+2023-11-13T01:21:57Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:21:57+08:00 grpc.time_ms=0.017 module=cli peer.address= protocol=grpc
+2023-11-13T01:21:57Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:21:57+08:00 grpc.time_ms=2.063 module=cli peer.address= protocol=grpc
+2023-11-13T01:21:57Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:21:57Z
+2023-11-13T01:21:57Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:21:58Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:21:58Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:21:58Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-afkZNbbsDfRHZrgV.sock module=cli signal=interrupt
+2023-11-13T01:21:58Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: name 'github_owner_id' is not defined" module=cli
+2023-11-13T01:24:31Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:24:31Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:24:31Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-zKXYncLYgLvxTugO.sock module=cli
+2023-11-13T01:24:32Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:24:32+08:00 grpc.time_ms=0.638 module=cli peer.address= protocol=grpc
+2023-11-13T01:24:32Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:24:32+08:00 grpc.time_ms=0.892 module=cli peer.address= protocol=grpc
+2023-11-13T01:24:32Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:24:32Z
+2023-11-13T01:24:32Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:24:32+08:00 grpc.time_ms=0.009 module=cli peer.address= protocol=grpc
+2023-11-13T01:24:32Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:24:32+08:00 grpc.time_ms=1.945 module=cli peer.address= protocol=grpc
+2023-11-13T01:24:32Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:24:32Z
+2023-11-13T01:24:32Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:24:32Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:24:32Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:24:32Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-zKXYncLYgLvxTugO.sock module=cli signal=interrupt
+2023-11-13T01:24:32Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: CountsClient.__init__() missing 1 required positional argument: 'base_url'" module=cli
+2023-11-13T01:26:33Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:26:33Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:26:33Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-oFKZDAtSwxVyTyBi.sock module=cli
+2023-11-13T01:26:34Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:26:34+08:00 grpc.time_ms=1.264 module=cli peer.address= protocol=grpc
+2023-11-13T01:26:34Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:26:34+08:00 grpc.time_ms=1.318 module=cli peer.address= protocol=grpc
+2023-11-13T01:26:34Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:26:34Z
+2023-11-13T01:26:34Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:26:34+08:00 grpc.time_ms=0.003 module=cli peer.address= protocol=grpc
+2023-11-13T01:26:34Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:26:34+08:00 grpc.time_ms=2.212 module=cli peer.address= protocol=grpc
+2023-11-13T01:26:34Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:26:34Z
+2023-11-13T01:26:34Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:26:34Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:26:34Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:26:34Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-oFKZDAtSwxVyTyBi.sock module=cli signal=interrupt
+2023-11-13T01:26:34Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: CountsClient.__init__() missing 1 required positional argument: 'base_url'" module=cli
+2023-11-13T01:30:21Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:30:21Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:30:21Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-vPSVRVYBCAKVdPoM.sock module=cli
+2023-11-13T01:30:22Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:30:22+08:00 grpc.time_ms=0.835 module=cli peer.address= protocol=grpc
+2023-11-13T01:30:22Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:30:22+08:00 grpc.time_ms=1.046 module=cli peer.address= protocol=grpc
+2023-11-13T01:30:22Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:30:22Z
+2023-11-13T01:30:22Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:30:22+08:00 grpc.time_ms=0.003 module=cli peer.address= protocol=grpc
+2023-11-13T01:30:22Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:30:22+08:00 grpc.time_ms=1.869 module=cli peer.address= protocol=grpc
+2023-11-13T01:30:22Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:30:22Z
+2023-11-13T01:30:22Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:30:23Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:30:23Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:30:23Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-vPSVRVYBCAKVdPoM.sock module=cli signal=interrupt
+2023-11-13T01:30:23Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: CountsClient.__init__() missing 1 required positional argument: 'base_url'" module=cli
+2023-11-13T01:30:56Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:30:56Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:30:56Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-nMivpVpRkYsrFMcJ.sock module=cli
+2023-11-13T01:30:57Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:30:57+08:00 grpc.time_ms=0.523 module=cli peer.address= protocol=grpc
+2023-11-13T01:30:57Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:30:57+08:00 grpc.time_ms=0.785 module=cli peer.address= protocol=grpc
+2023-11-13T01:30:57Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:30:57Z
+2023-11-13T01:30:57Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:30:57+08:00 grpc.time_ms=0.003 module=cli peer.address= protocol=grpc
+2023-11-13T01:30:57Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:30:57+08:00 grpc.time_ms=3.078 module=cli peer.address= protocol=grpc
+2023-11-13T01:30:57Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:30:57Z
+2023-11-13T01:30:57Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:30:58Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:30:58Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:30:58Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-nMivpVpRkYsrFMcJ.sock module=cli signal=interrupt
+2023-11-13T01:30:58Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: CountsClient.__init__() missing 1 required positional argument: 'base_url'" module=cli
+2023-11-13T01:35:52Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:35:52Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:35:52Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-PchUkkGBPqclYIFm.sock module=cli
+2023-11-13T01:35:53Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:35:53+08:00 grpc.time_ms=0.931 module=cli peer.address= protocol=grpc
+2023-11-13T01:35:53Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:35:53+08:00 grpc.time_ms=0.989 module=cli peer.address= protocol=grpc
+2023-11-13T01:35:53Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:35:53Z
+2023-11-13T01:35:53Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:35:53+08:00 grpc.time_ms=0.004 module=cli peer.address= protocol=grpc
+2023-11-13T01:35:53Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:35:53+08:00 grpc.time_ms=2.109 module=cli peer.address= protocol=grpc
+2023-11-13T01:35:53Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:35:53Z
+2023-11-13T01:35:53Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:35:53Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:35:53Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:35:53Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-PchUkkGBPqclYIFm.sock module=cli signal=interrupt
+2023-11-13T01:35:53Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Unknown desc = Exception calling application: name 'github_owner_id' is not defined" module=cli
+2023-11-13T01:39:29Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:39:29Z ERR exiting with error error="failed to load spec(s) from TestConfig.yaml. Error: failed to expand environment variable in file TestConfig.yaml (section 1): env variable NULLIFY_API_BEARER_TOKEN not found" module=cli
+2023-11-13T01:39:58Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:39:58Z ERR exiting with error error="failed to load spec(s) from TestConfig.yaml. Error: failed to expand environment variable in file TestConfig.yaml (section 1): env variable NULLIFY_API_BEARER_TOKEN not found" module=cli
+2023-11-13T01:40:16Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:40:16Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:40:16Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-ILgSKWoAhnlSwKBD.sock module=cli
+2023-11-13T01:40:17Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:40:17+08:00 grpc.time_ms=0.423 module=cli peer.address= protocol=grpc
+2023-11-13T01:40:17Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:40:17+08:00 grpc.time_ms=0.646 module=cli peer.address= protocol=grpc
+2023-11-13T01:40:17Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:40:17Z
+2023-11-13T01:40:17Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:40:17+08:00 grpc.time_ms=0.004 module=cli peer.address= protocol=grpc
+2023-11-13T01:40:17Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:40:17+08:00 grpc.time_ms=1.752 module=cli peer.address= protocol=grpc
+2023-11-13T01:40:17Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T01:40:17Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:40:17+08:00 grpc.time_ms=6.827 module=cli peer.address= protocol=grpc
+2023-11-13T01:40:17Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T01:40:17Z DBG Table doesn't exist, creating module=sqlite-dest table=example_item
+2023-11-13T01:40:17Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:40:17+08:00 grpc.time_ms=16.191 module=cli peer.address= protocol=grpc
+2023-11-13T01:40:17Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:40:17+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-13T01:40:17Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:40:17+08:00 grpc.time_ms=0.114 module=cli peer.address= protocol=grpc
+2023-11-13T01:40:17Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:40:17Z
+2023-11-13T01:40:17Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:40:18Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:40:18Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:40:18Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-ILgSKWoAhnlSwKBD.sock module=cli signal=interrupt
+2023-11-13T01:47:51Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:47:51Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:47:51Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-fOQoUURzJLuPnkfT.sock module=cli
+2023-11-13T01:47:52Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:47:52+08:00 grpc.time_ms=1.042 module=cli peer.address= protocol=grpc
+2023-11-13T01:47:52Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:47:52+08:00 grpc.time_ms=1.075 module=cli peer.address= protocol=grpc
+2023-11-13T01:47:52Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:47:52Z
+2023-11-13T01:47:52Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:47:52+08:00 grpc.time_ms=0.004 module=cli peer.address= protocol=grpc
+2023-11-13T01:47:52Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:47:52+08:00 grpc.time_ms=1.629 module=cli peer.address= protocol=grpc
+2023-11-13T01:47:52Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T01:47:52Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:47:52+08:00 grpc.time_ms=8.444 module=cli peer.address= protocol=grpc
+2023-11-13T01:47:52Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T01:47:52Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T01:47:52Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:47:52+08:00 grpc.time_ms=16.612 module=cli peer.address= protocol=grpc
+2023-11-13T01:47:52Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:47:52+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-13T01:47:52Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:47:52+08:00 grpc.time_ms=0.091 module=cli peer.address= protocol=grpc
+2023-11-13T01:47:52Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:47:52Z
+2023-11-13T01:47:52Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:47:52Z WRN Failed to send sync summary error="rpc error: code = Unavailable desc = connection error: desc = \"transport: authentication handshake failed: read tcp 10.202.0.2:50115->172.217.24.51:443: read: socket is not connected\"" module=cli
+2023-11-13T01:47:52Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:47:52Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:47:52Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-fOQoUURzJLuPnkfT.sock module=cli signal=interrupt
+2023-11-13T01:51:13Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:51:13Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:51:13Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-QzMYYYAhrNftMZiv.sock module=cli
+2023-11-13T01:51:14Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:51:14+08:00 grpc.time_ms=0.683 module=cli peer.address= protocol=grpc
+2023-11-13T01:51:14Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:51:14+08:00 grpc.time_ms=0.936 module=cli peer.address= protocol=grpc
+2023-11-13T01:51:14Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:51:14Z
+2023-11-13T01:51:14Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:51:14+08:00 grpc.time_ms=0.003 module=cli peer.address= protocol=grpc
+2023-11-13T01:51:14Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:51:14+08:00 grpc.time_ms=2.777 module=cli peer.address= protocol=grpc
+2023-11-13T01:51:14Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T01:51:14Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:51:14+08:00 grpc.time_ms=3.447 module=cli peer.address= protocol=grpc
+2023-11-13T01:51:14Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T01:51:14Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T01:51:14Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:51:14+08:00 grpc.time_ms=12.411 module=cli peer.address= protocol=grpc
+2023-11-13T01:51:14Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:51:14+08:00 grpc.time_ms=0.006 module=cli peer.address= protocol=grpc
+2023-11-13T01:51:14Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:51:14+08:00 grpc.time_ms=0.1 module=cli peer.address= protocol=grpc
+2023-11-13T01:51:14Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:51:14Z
+2023-11-13T01:51:14Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:51:14Z WRN Failed to send sync summary error="rpc error: code = Unavailable desc = connection error: desc = \"transport: authentication handshake failed: read tcp 10.202.0.2:50764->172.217.24.51:443: read: socket is not connected\"" module=cli
+2023-11-13T01:51:14Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:51:14Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:51:14Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-QzMYYYAhrNftMZiv.sock module=cli signal=interrupt
+2023-11-13T01:53:37Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:53:37Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:53:37Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-HcDlbxFjNVREhYWF.sock module=cli
+2023-11-13T01:53:38Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:53:38+08:00 grpc.time_ms=0.758 module=cli peer.address= protocol=grpc
+2023-11-13T01:53:38Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:53:38+08:00 grpc.time_ms=0.947 module=cli peer.address= protocol=grpc
+2023-11-13T01:53:38Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:53:38Z
+2023-11-13T01:53:38Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:53:38+08:00 grpc.time_ms=0.009 module=cli peer.address= protocol=grpc
+2023-11-13T01:53:38Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:53:38+08:00 grpc.time_ms=2.289 module=cli peer.address= protocol=grpc
+2023-11-13T01:53:38Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T01:53:38Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:53:38+08:00 grpc.time_ms=2.177 module=cli peer.address= protocol=grpc
+2023-11-13T01:53:38Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T01:53:38Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T01:53:38Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:53:38+08:00 grpc.time_ms=10.919 module=cli peer.address= protocol=grpc
+2023-11-13T01:53:38Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:53:38+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-13T01:53:38Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:53:38+08:00 grpc.time_ms=0.099 module=cli peer.address= protocol=grpc
+2023-11-13T01:53:38Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:53:38Z
+2023-11-13T01:53:38Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:53:38Z WRN Failed to send sync summary error="rpc error: code = Unavailable desc = connection error: desc = \"transport: authentication handshake failed: read tcp 10.202.0.2:51169->172.217.24.51:443: read: socket is not connected\"" module=cli
+2023-11-13T01:53:38Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:53:38Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:53:38Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-HcDlbxFjNVREhYWF.sock module=cli signal=interrupt
+2023-11-13T01:56:37Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T01:56:37Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T01:56:37Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-DiQilizeFgRzZTYy.sock module=cli
+2023-11-13T01:56:38Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:56:38+08:00 grpc.time_ms=0.556 module=cli peer.address= protocol=grpc
+2023-11-13T01:56:38Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T09:56:38+08:00 grpc.time_ms=0.806 module=cli peer.address= protocol=grpc
+2023-11-13T01:56:38Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:56:38Z
+2023-11-13T01:56:38Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:56:38+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-13T01:56:38Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:56:38+08:00 grpc.time_ms=2.166 module=cli peer.address= protocol=grpc
+2023-11-13T01:56:38Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T01:56:38Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:56:38+08:00 grpc.time_ms=3.73 module=cli peer.address= protocol=grpc
+2023-11-13T01:56:38Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T01:56:38Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T01:56:39Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:56:38+08:00 grpc.time_ms=1431.402 module=cli peer.address= protocol=grpc
+2023-11-13T01:56:39Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:56:39+08:00 grpc.time_ms=0.007 module=cli peer.address= protocol=grpc
+2023-11-13T01:56:39Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T09:56:39+08:00 grpc.time_ms=0.093 module=cli peer.address= protocol=grpc
+2023-11-13T01:56:39Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T01:56:38Z
+2023-11-13T01:56:39Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T01:56:39Z WRN Failed to send sync summary error="rpc error: code = Unavailable desc = connection error: desc = \"transport: authentication handshake failed: read tcp 10.202.0.2:51754->172.217.24.51:443: read: socket is not connected\"" module=cli
+2023-11-13T01:56:39Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T01:56:39Z INF waiting for source plugin to terminate module=cli
+2023-11-13T01:56:39Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-DiQilizeFgRzZTYy.sock module=cli signal=interrupt
+2023-11-13T02:01:06Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:01:06Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:01:07Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-FApaSaequhfNnSIh.sock module=cli
+2023-11-13T02:01:08Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:01:08+08:00 grpc.time_ms=1.237 module=cli peer.address= protocol=grpc
+2023-11-13T02:01:08Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:01:08+08:00 grpc.time_ms=1.281 module=cli peer.address= protocol=grpc
+2023-11-13T02:01:08Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:01:08Z
+2023-11-13T02:01:08Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:01:08+08:00 grpc.time_ms=0.007 module=cli peer.address= protocol=grpc
+2023-11-13T02:01:08Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:01:08+08:00 grpc.time_ms=2.084 module=cli peer.address= protocol=grpc
+2023-11-13T02:01:08Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:01:08Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:01:08+08:00 grpc.time_ms=3.127 module=cli peer.address= protocol=grpc
+2023-11-13T02:01:08Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T02:01:08Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T02:01:08Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:01:08+08:00 grpc.time_ms=639.865 module=cli peer.address= protocol=grpc
+2023-11-13T02:01:08Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:01:08+08:00 grpc.time_ms=0.013 module=cli peer.address= protocol=grpc
+2023-11-13T02:01:08Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:01:08+08:00 grpc.time_ms=0.161 module=cli peer.address= protocol=grpc
+2023-11-13T02:01:08Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:01:08Z
+2023-11-13T02:01:08Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:01:08Z WRN Failed to send sync summary error="rpc error: code = Unavailable desc = connection error: desc = \"transport: authentication handshake failed: read tcp 10.202.0.2:52652->172.217.24.51:443: read: socket is not connected\"" module=cli
+2023-11-13T02:01:08Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:01:08Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:01:08Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-FApaSaequhfNnSIh.sock module=cli signal=interrupt
+2023-11-13T02:13:21Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:13:21Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:13:21Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-lnsyPZwBSYrUaDoq.sock module=cli
+2023-11-13T02:13:22Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:13:22+08:00 grpc.time_ms=1.035 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:22Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:13:22+08:00 grpc.time_ms=1.272 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:22Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:13:22Z
+2023-11-13T02:13:22Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:22+08:00 grpc.time_ms=0.009 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:22Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:22+08:00 grpc.time_ms=2.522 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:22Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:13:22Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:22+08:00 grpc.time_ms=2.208 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:22Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T02:13:22Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T02:13:23Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:22+08:00 grpc.time_ms=987.873 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:23Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:23+08:00 grpc.time_ms=0.009 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:23Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:23+08:00 grpc.time_ms=0.203 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:23Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:13:22Z
+2023-11-13T02:13:23Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:13:26Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:13:26Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:13:26Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-lnsyPZwBSYrUaDoq.sock module=cli signal=interrupt
+2023-11-13T02:13:48Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:13:48Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:13:49Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-NVdkHWlcqXtAraJJ.sock module=cli
+2023-11-13T02:13:49Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:13:49+08:00 grpc.time_ms=0.629 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:49Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:13:49+08:00 grpc.time_ms=0.884 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:49Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:13:49Z
+2023-11-13T02:13:49Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:49+08:00 grpc.time_ms=0.027 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:49Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:49+08:00 grpc.time_ms=2.322 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:49Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:13:49Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:49+08:00 grpc.time_ms=1.424 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:49Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T02:13:49Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T02:13:51Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:49+08:00 grpc.time_ms=1834.979 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:51Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:51+08:00 grpc.time_ms=0.011 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:51Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:13:51+08:00 grpc.time_ms=0.164 module=cli peer.address= protocol=grpc
+2023-11-13T02:13:51Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:13:49Z
+2023-11-13T02:13:51Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:13:52Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:13:52Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:13:52Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-NVdkHWlcqXtAraJJ.sock module=cli signal=interrupt
+2023-11-13T02:17:37Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:17:37Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:17:38Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-RwSCnWGgOzzVWJrk.sock module=cli
+2023-11-13T02:17:39Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:17:39+08:00 grpc.time_ms=0.917 module=cli peer.address= protocol=grpc
+2023-11-13T02:17:39Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:17:39+08:00 grpc.time_ms=1.115 module=cli peer.address= protocol=grpc
+2023-11-13T02:17:39Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:17:39Z
+2023-11-13T02:17:39Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:17:39+08:00 grpc.time_ms=0.002 module=cli peer.address= protocol=grpc
+2023-11-13T02:17:39Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:17:39+08:00 grpc.time_ms=1.855 module=cli peer.address= protocol=grpc
+2023-11-13T02:17:39Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:17:39Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:17:39+08:00 grpc.time_ms=2.772 module=cli peer.address= protocol=grpc
+2023-11-13T02:17:39Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T02:17:39Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T02:17:41Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:17:39+08:00 grpc.time_ms=2390.84 module=cli peer.address= protocol=grpc
+2023-11-13T02:17:41Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:17:41+08:00 grpc.time_ms=0.004 module=cli peer.address= protocol=grpc
+2023-11-13T02:17:41Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:17:39Z
+2023-11-13T02:17:41Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:17:41Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:17:41+08:00 grpc.time_ms=0.078 module=cli peer.address= protocol=grpc
+2023-11-13T02:17:42Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:17:42Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:17:42Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-RwSCnWGgOzzVWJrk.sock module=cli signal=interrupt
+2023-11-13T02:24:33Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:24:33Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:24:34Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-leTVQcUZEmWussym.sock module=cli
+2023-11-13T02:24:34Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:24:34+08:00 grpc.time_ms=0.775 module=cli peer.address= protocol=grpc
+2023-11-13T02:24:34Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:24:34+08:00 grpc.time_ms=0.804 module=cli peer.address= protocol=grpc
+2023-11-13T02:24:34Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:24:34Z
+2023-11-13T02:24:34Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:24:34+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-13T02:24:34Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:24:34+08:00 grpc.time_ms=1.868 module=cli peer.address= protocol=grpc
+2023-11-13T02:24:34Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:24:34Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:24:34+08:00 grpc.time_ms=2.859 module=cli peer.address= protocol=grpc
+2023-11-13T02:24:34Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T02:24:34Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T02:24:38Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:24:34+08:00 grpc.time_ms=3139.249 module=cli peer.address= protocol=grpc
+2023-11-13T02:24:38Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:24:38+08:00 grpc.time_ms=0.011 module=cli peer.address= protocol=grpc
+2023-11-13T02:24:38Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:24:38+08:00 grpc.time_ms=0.15 module=cli peer.address= protocol=grpc
+2023-11-13T02:24:38Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:24:34Z
+2023-11-13T02:24:38Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:24:38Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:24:38Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:24:38Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-leTVQcUZEmWussym.sock module=cli signal=interrupt
+2023-11-13T02:26:58Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:26:58Z ERR exiting with error error="failed to load spec(s) from TestConfig.yaml. Error: failed to expand environment variable in file TestConfig.yaml (section 1): env variable NULLIFY_API_BEARER_TOKEN not found" module=cli
+2023-11-13T02:27:07Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:27:07Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:27:07Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-yuIyZKIPqTcEVXEr.sock module=cli
+2023-11-13T02:27:08Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:27:08+08:00 grpc.time_ms=0.926 module=cli peer.address= protocol=grpc
+2023-11-13T02:27:08Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:27:08+08:00 grpc.time_ms=1.115 module=cli peer.address= protocol=grpc
+2023-11-13T02:27:08Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:27:08Z
+2023-11-13T02:27:08Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:27:08+08:00 grpc.time_ms=0.008 module=cli peer.address= protocol=grpc
+2023-11-13T02:27:08Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:27:08+08:00 grpc.time_ms=2.203 module=cli peer.address= protocol=grpc
+2023-11-13T02:27:08Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:27:08Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:27:08+08:00 grpc.time_ms=2.263 module=cli peer.address= protocol=grpc
+2023-11-13T02:27:08Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T02:27:08Z INF Table exists, auto-migrating module=sqlite-dest table=example_item
+2023-11-13T02:27:10Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:27:08+08:00 grpc.time_ms=1532.434 module=cli peer.address= protocol=grpc
+2023-11-13T02:27:10Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:27:10+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-13T02:27:10Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:27:10+08:00 grpc.time_ms=0.11 module=cli peer.address= protocol=grpc
+2023-11-13T02:27:10Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:27:08Z
+2023-11-13T02:27:10Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:27:10Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:27:10Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:27:10Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-yuIyZKIPqTcEVXEr.sock module=cli signal=interrupt
+2023-11-13T02:29:11Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:29:11Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:29:37Z ERR exiting with error error="received interrupt signal from OS: All attempts fail:\n#1: connection not ready\n#2: connection not ready\n#3: connection not ready\n#4: connection not ready\n#5: connection not ready\n#6: connection not ready\n#7: connection not ready\n#8: connection not ready\n#9: connection not ready\n#10: connection not ready\n#11: connection not ready\n#12: connection not ready\n#13: connection not ready\n#14: connection not ready\n#15: connection not ready\n#16: connection not ready\n#17: connection not ready\n#18: connection not ready\n#19: connection not ready\n#20: connection not ready\n#21: connection not ready\n#22: connection not ready\n#23: connection not ready\n#24: connection not ready\n#25: connection not ready\n#26: connection not ready\n#27: connection not ready\n#28: connection not ready\n#29: connection not ready\n#30: connection not ready" module=cli
+2023-11-13T02:29:44Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:29:44Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:29:45Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-MGvXCsXUpYrlvXJR.sock module=cli
+2023-11-13T02:29:45Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:29:45+08:00 grpc.time_ms=5.696 module=cli peer.address= protocol=grpc
+2023-11-13T02:29:45Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:29:45+08:00 grpc.time_ms=5.919 module=cli peer.address= protocol=grpc
+2023-11-13T02:29:45Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:29:45Z
+2023-11-13T02:29:45Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:29:45+08:00 grpc.time_ms=0.003 module=cli peer.address= protocol=grpc
+2023-11-13T02:29:45Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:29:45+08:00 grpc.time_ms=2.079 module=cli peer.address= protocol=grpc
+2023-11-13T02:29:45Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:29:45Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:29:45+08:00 grpc.time_ms=6.603 module=cli peer.address= protocol=grpc
+2023-11-13T02:29:47Z INF finished call grpc.code=Canceled grpc.component=server grpc.error="rpc error: code = Canceled desc = plugin returned error: failed to process MigrateTable message: tables example_item with changes [[column: _id, type: update, current: _id:int64:PK, previous: _id:large_utf8:PK]] require migration. Migrate manually or consider using 'migrate_mode: forced'" grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:29:45+08:00 grpc.time_ms=1400.567 module=cli peer.address= protocol=grpc
+2023-11-13T02:29:47Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:29:45Z
+2023-11-13T02:29:47Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:29:47Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:29:47Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:29:47Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-MGvXCsXUpYrlvXJR.sock module=cli signal=interrupt
+2023-11-13T02:29:47Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Canceled desc = plugin returned error: failed to process MigrateTable message: tables example_item with changes [[column: _id, type: update, current: _id:int64:PK, previous: _id:large_utf8:PK]] require migration. Migrate manually or consider using 'migrate_mode: forced'" module=cli
+2023-11-13T02:31:31Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:31:31Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:31:32Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-EHKPMVxyGjpmkXwd.sock module=cli
+2023-11-13T02:31:33Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:31:33+08:00 grpc.time_ms=1.211 module=cli peer.address= protocol=grpc
+2023-11-13T02:31:33Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:31:33+08:00 grpc.time_ms=1.467 module=cli peer.address= protocol=grpc
+2023-11-13T02:31:33Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:31:33Z
+2023-11-13T02:31:33Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:31:33+08:00 grpc.time_ms=0.005 module=cli peer.address= protocol=grpc
+2023-11-13T02:31:33Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:31:33+08:00 grpc.time_ms=1.888 module=cli peer.address= protocol=grpc
+2023-11-13T02:31:33Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:31:33Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:31:33+08:00 grpc.time_ms=2.601 module=cli peer.address= protocol=grpc
+2023-11-13T02:31:34Z INF finished call grpc.code=Canceled grpc.component=server grpc.error="rpc error: code = Canceled desc = plugin returned error: failed to process MigrateTable message: tables example_item with changes [[column: _id, type: update, current: _id:int64:PK, previous: _id:large_utf8:PK]] require migration. Migrate manually or consider using 'migrate_mode: forced'" grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:31:33+08:00 grpc.time_ms=1015.839 module=cli peer.address= protocol=grpc
+2023-11-13T02:31:34Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:31:33Z
+2023-11-13T02:31:34Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:31:34Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:31:34Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:31:34Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-EHKPMVxyGjpmkXwd.sock module=cli signal=interrupt
+2023-11-13T02:31:34Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Canceled desc = plugin returned error: failed to process MigrateTable message: tables example_item with changes [[column: _id, type: update, current: _id:int64:PK, previous: _id:large_utf8:PK]] require migration. Migrate manually or consider using 'migrate_mode: forced'" module=cli
+2023-11-13T02:32:04Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:32:04Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:32:04Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-GYEZnsLIItRlXdGv.sock module=cli
+2023-11-13T02:32:05Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:32:05+08:00 grpc.time_ms=0.68 module=cli peer.address= protocol=grpc
+2023-11-13T02:32:05Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:32:05+08:00 grpc.time_ms=0.746 module=cli peer.address= protocol=grpc
+2023-11-13T02:32:05Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:32:05Z
+2023-11-13T02:32:05Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:32:05+08:00 grpc.time_ms=0.003 module=cli peer.address= protocol=grpc
+2023-11-13T02:32:05Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:32:05+08:00 grpc.time_ms=1.452 module=cli peer.address= protocol=grpc
+2023-11-13T02:32:05Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:32:05Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:32:05+08:00 grpc.time_ms=2.181 module=cli peer.address= protocol=grpc
+2023-11-13T02:32:06Z INF finished call grpc.code=Canceled grpc.component=server grpc.error="rpc error: code = Canceled desc = plugin returned error: failed to process MigrateTable message: tables example_item with changes [[column: _id, type: update, current: _id:int64:PK, previous: _id:large_utf8:PK]] require migration. Migrate manually or consider using 'migrate_mode: forced'" grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:32:05+08:00 grpc.time_ms=728.578 module=cli peer.address= protocol=grpc
+2023-11-13T02:32:06Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:32:05Z
+2023-11-13T02:32:06Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:32:06Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:32:06Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:32:06Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-GYEZnsLIItRlXdGv.sock module=cli signal=interrupt
+2023-11-13T02:32:06Z ERR exiting with error error="failed to sync v3 source counts: rpc error: code = Canceled desc = plugin returned error: failed to process MigrateTable message: tables example_item with changes [[column: _id, type: update, current: _id:int64:PK, previous: _id:large_utf8:PK]] require migration. Migrate manually or consider using 'migrate_mode: forced'" module=cli
+2023-11-13T02:46:17Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:46:17Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:46:17Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-zWBNqxTeNsOvMYUc.sock module=cli
+2023-11-13T02:46:18Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:46:18+08:00 grpc.time_ms=0.756 module=cli peer.address= protocol=grpc
+2023-11-13T02:46:18Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:46:18+08:00 grpc.time_ms=1.021 module=cli peer.address= protocol=grpc
+2023-11-13T02:46:18Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:46:18Z
+2023-11-13T02:46:18Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:46:18+08:00 grpc.time_ms=0.463 module=cli peer.address= protocol=grpc
+2023-11-13T02:46:18Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:46:18+08:00 grpc.time_ms=2.237 module=cli peer.address= protocol=grpc
+2023-11-13T02:46:18Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:46:18Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:46:18+08:00 grpc.time_ms=2.124 module=cli peer.address= protocol=grpc
+2023-11-13T02:46:18Z INF Migrating table module=sqlite-dest table=example_item
+2023-11-13T02:46:18Z DBG Table doesn't exist, creating module=sqlite-dest table=example_item
+2023-11-13T02:46:21Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:46:18+08:00 grpc.time_ms=2768.14 module=cli peer.address= protocol=grpc
+2023-11-13T02:46:21Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:46:21+08:00 grpc.time_ms=0.014 module=cli peer.address= protocol=grpc
+2023-11-13T02:46:21Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:46:21+08:00 grpc.time_ms=0.228 module=cli peer.address= protocol=grpc
+2023-11-13T02:46:21Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:46:18Z
+2023-11-13T02:46:21Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:46:22Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:46:22Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:46:22Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-zWBNqxTeNsOvMYUc.sock module=cli signal=interrupt
+2023-11-13T02:49:31Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:49:31Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:49:32Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-NCBYVgQbuauZNjuo.sock module=cli
+2023-11-13T02:49:33Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:49:33+08:00 grpc.time_ms=1.227 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:33Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:49:33+08:00 grpc.time_ms=1.487 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:33Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:49:33Z
+2023-11-13T02:49:33Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:33+08:00 grpc.time_ms=0.01 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:33Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:33+08:00 grpc.time_ms=2.243 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:33Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:49:33Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:33+08:00 grpc.time_ms=3.072 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:33Z INF Migrating table module=sqlite-dest table=sca_counts
+2023-11-13T02:49:33Z DBG Table doesn't exist, creating module=sqlite-dest table=sca_counts
+2023-11-13T02:49:34Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:33+08:00 grpc.time_ms=994.459 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:34Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:34+08:00 grpc.time_ms=0.007 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:34Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:34+08:00 grpc.time_ms=0.125 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:34Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:49:33Z
+2023-11-13T02:49:34Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:49:34Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:49:34Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:49:34Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-NCBYVgQbuauZNjuo.sock module=cli signal=interrupt
+2023-11-13T02:49:55Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:49:55Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:49:56Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-qpQrNCLlIWhpRerH.sock module=cli
+2023-11-13T02:49:57Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:49:57+08:00 grpc.time_ms=0.473 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:57Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:49:57+08:00 grpc.time_ms=0.512 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:57Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:49:57Z
+2023-11-13T02:49:57Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:57+08:00 grpc.time_ms=0.013 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:57Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:57+08:00 grpc.time_ms=1.337 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:57Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:49:57Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:57+08:00 grpc.time_ms=1.173 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:57Z INF Migrating table module=sqlite-dest table=sca_counts
+2023-11-13T02:49:57Z DBG Table doesn't exist, creating module=sqlite-dest table=sca_counts
+2023-11-13T02:49:57Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:57+08:00 grpc.time_ms=865.948 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:57Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:57+08:00 grpc.time_ms=0.017 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:57Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:49:57Z
+2023-11-13T02:49:57Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:49:57Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:49:57+08:00 grpc.time_ms=0.139 module=cli peer.address= protocol=grpc
+2023-11-13T02:49:58Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:49:58Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:49:58Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-qpQrNCLlIWhpRerH.sock module=cli signal=interrupt
+2023-11-13T02:50:00Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:50:00Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:50:01Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-YsjfWltHLcySOBEz.sock module=cli
+2023-11-13T02:50:02Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:50:02+08:00 grpc.time_ms=0.161 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:02Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:50:02Z
+2023-11-13T02:50:02Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:50:02+08:00 grpc.time_ms=0.181 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:02Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:02+08:00 grpc.time_ms=0.003 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:02Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:02+08:00 grpc.time_ms=0.059 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:02Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:50:02Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:02+08:00 grpc.time_ms=0.711 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:02Z INF Migrating table module=sqlite-dest table=sca_counts
+2023-11-13T02:50:02Z INF Table exists, auto-migrating module=sqlite-dest table=sca_counts
+2023-11-13T02:50:02Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:02+08:00 grpc.time_ms=694.392 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:02Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:02+08:00 grpc.time_ms=0.006 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:02Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:02+08:00 grpc.time_ms=0.069 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:02Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:50:02Z
+2023-11-13T02:50:02Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:50:03Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:50:03Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:50:03Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-YsjfWltHLcySOBEz.sock module=cli signal=interrupt
+2023-11-13T02:50:13Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:50:13Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:50:13Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-yaexQAbkVXRJziMU.sock module=cli
+2023-11-13T02:50:14Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:50:14+08:00 grpc.time_ms=0.214 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:14Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:50:14+08:00 grpc.time_ms=0.237 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:14Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:50:14Z
+2023-11-13T02:50:14Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:14+08:00 grpc.time_ms=0.007 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:14Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:14+08:00 grpc.time_ms=0.083 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:14Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:50:14Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:14+08:00 grpc.time_ms=0.857 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:14Z INF Migrating table module=sqlite-dest table=sca_counts
+2023-11-13T02:50:14Z INF Table exists, auto-migrating module=sqlite-dest table=sca_counts
+2023-11-13T02:50:14Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:14+08:00 grpc.time_ms=724.937 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:14Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:14+08:00 grpc.time_ms=0.007 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:14Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:14+08:00 grpc.time_ms=0.073 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:14Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:50:14Z
+2023-11-13T02:50:14Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:50:15Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:50:15Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:50:15Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-yaexQAbkVXRJziMU.sock module=cli signal=interrupt
+2023-11-13T02:50:33Z INF Loading spec(s) args=["TestConfig.yaml"] module=cli
+2023-11-13T02:50:33Z DBG no need to get token since no source or destination uses the CloudQuery registry module=cli
+2023-11-13T02:50:33Z INF Plugin server listening address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-YNIloiuGmWUFsWIM.sock module=cli
+2023-11-13T02:50:34Z INF started call grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:50:34+08:00 grpc.time_ms=0.202 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:34Z INF finished call grpc.code=OK grpc.component=server grpc.method=GetVersions grpc.method_type=unary grpc.service=cloudquery.discovery.v1.Discovery grpc.start_time=2023-11-13T10:50:34+08:00 grpc.time_ms=0.222 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:34Z INF Start sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:50:34Z
+2023-11-13T02:50:34Z INF started call grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:34+08:00 grpc.time_ms=0.006 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:34Z INF finished call grpc.code=OK grpc.component=server grpc.method=Init grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:34+08:00 grpc.time_ms=0.069 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:34Z INF Start fetching resources destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)"
+2023-11-13T02:50:34Z INF started call grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:34+08:00 grpc.time_ms=0.7 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:34Z INF Migrating table module=sqlite-dest table=sca_counts
+2023-11-13T02:50:34Z INF Table exists, auto-migrating module=sqlite-dest table=sca_counts
+2023-11-13T02:50:35Z INF finished call grpc.code=OK grpc.component=server grpc.method=Write grpc.method_type=client_stream grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:34+08:00 grpc.time_ms=820.718 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:35Z INF started call grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:35+08:00 grpc.time_ms=0.013 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:35Z INF finished call grpc.code=OK grpc.component=server grpc.method=Close grpc.method_type=unary grpc.service=cloudquery.plugin.v3.Plugin grpc.start_time=2023-11-13T10:50:35+08:00 grpc.time_ms=0.193 module=cli peer.address= protocol=grpc
+2023-11-13T02:50:35Z INF End sync destinations=["sqlite (v2.4.11)"] module=cli source="counts (grpc@localhost:7777)" sync_time=2023-11-13T02:50:34Z
+2023-11-13T02:50:35Z INF Sending sync summary to analyticsv1.cloudquery.io:443 module=cli
+2023-11-13T02:50:35Z DBG sending interrupt signal to source plugin module=cli
+2023-11-13T02:50:35Z INF waiting for source plugin to terminate module=cli
+2023-11-13T02:50:35Z INF Got stop signal. Plugin server shutting down address=/var/folders/_5/jv7tm_rn7tj_f9914g9vs4980000gn/T/cq-YNIloiuGmWUFsWIM.sock module=cli signal=interrupt
