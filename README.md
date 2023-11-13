@@ -36,8 +36,8 @@ spec:
   tables: ['*']
   destinations: ["sqlite"]
   spec:
-    base_url: https://api.mantelgroup.nullify.ai
-    github_owner_id: 6890923
+    base_url: https://api.YOUR_NULLIFY_TENANT.nullify.ai
+    github_owner_id: GITHUB_OWNER_ID
     access_token: "${NULLIFY_API_BEARER_TOKEN}"
 ---
 kind: destination
