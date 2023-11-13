@@ -4,7 +4,13 @@ This repo contains a Cloudquery source plugin for Nullify.ai.
 ## Status
 Incomplete prototype. 
 
-Only the Nullify Software Composition Analysis findings are implemented. These are returned in a table, sca_counts
+Only the Nullify Software Composition Analysis findings are implemented.
+
+These are returned in the following table
+
+```
+sca_counts
+```
 
 ## Getting started
 
