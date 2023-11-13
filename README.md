@@ -1,4 +1,4 @@
-# Nullify.ai Source Plugin Template
+# Nullify.ai Source Plugin
 This repo contains a Cloudquery source plugin for Nullify.ai.
 
 ## Status
@@ -18,7 +18,8 @@ https://docs.nullify.ai/api-reference/nullify-api/authentication
 
 ### Export your token as an environment variable
 
-   ```export export NULLIFY_API_BEARER_TOKEN=<your_bearer_token'
+   ```
+   export NULLIFY_API_BEARER_TOKEN=<your_bearer_token'
    ```
 
 ## Configuring Cloudquery
