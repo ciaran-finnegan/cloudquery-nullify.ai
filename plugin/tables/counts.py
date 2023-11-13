@@ -1,5 +1,6 @@
-from typing import Any, Generator
 import uuid
+
+from typing import Any, Generator
 
 import pyarrow as pa
 from cloudquery.sdk.scheduler import TableResolver
@@ -25,10 +26,10 @@ class Counts(Table):
 
     def __init__(self) -> None:
         super().__init__(
-            name="example_item",
-            title="Example Item",
+            name="sca_counts",
+            title="Counts of Software Composition Analysis (SCA) findings by Severity",
             columns=[
-                Column("_id", pa.uint64(), primary_key=True),
+                Column("_id", pa.string(), primary_key=True), 
                 Column("critical", pa.uint64()),
                 Column("high", pa.uint64()),
                 Column("low", pa.uint64()),
@@ -47,8 +48,14 @@ class CountsResolver(TableResolver):
     def __init__(self, table) -> None:
         super().__init__(table=table)
 
-    def resolve(
-        self, client: Client, parent_resource: Resource
-    ) -> Generator[Any, None, None]:
-        for counts_response in client.client.item_iterator():
-            yield counts_response
+    def resolve(self, client: Client, parent_resource: Resource) -> Generator[Any, None, None]:
+        for counts_response in client.client.counts_iterator():
+            # Transform the data to match the table's column structure
+            yield {
+                "_id": str(uuid.uuid4()),  # generate a unique ID for each record
+                "critical": counts_response['counts']['critical'],
+                "high": counts_response['counts']['high'],
+                "low": counts_response['counts']['low'],
+                "medium": counts_response['counts']['medium'],
+                "unknown": counts_response['counts']['unknown']
+            }
