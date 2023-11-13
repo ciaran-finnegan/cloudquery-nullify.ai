@@ -15,7 +15,7 @@ sca_counts
 ## Getting started
 
 To get started you will need
-- a Nullify.ai tenant and API URL e.g. https://api.<your_tenant>.nullify.ai
+- a Nullify.ai tenant and API URL e.g. 'https://api.<your_tenant>.nullify.ai'
 - a Nullify.ai API bearer token
 - a Github 
 
