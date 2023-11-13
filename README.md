@@ -19,7 +19,7 @@ https://docs.nullify.ai/api-reference/nullify-api/authentication
 ### Export your token as an environment variable
 
    ```
-   export NULLIFY_API_BEARER_TOKEN=<your_bearer_token'
+   export NULLIFY_API_BEARER_TOKEN=<your_bearer_token>'
    ```
 
 ## Configuring Cloudquery
